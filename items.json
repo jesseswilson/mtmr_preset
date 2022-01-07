@@ -1,0 +1,733 @@
+[
+  {
+    "type": "escape",
+    "title": "esc",
+    "align": "left",
+    "width": 60,
+    "restTime": 600
+  },
+  {
+    "type": "group",
+    "title": "🌐",
+    "align": "left",
+    "width": 58,
+    "items": [
+      {
+        "type": "staticButton",
+        "title": "Gmail",
+        "bordered": true,
+        "action": "openUrl",
+        "url": "https://mail.google.com/mail/u/0/#inbox",
+        "background": "FF3333"
+      },
+      {
+        "type": "staticButton",
+        "title": "",
+        "width": 5,
+        "bordered": false
+      },
+      {
+        "type": "staticButton",
+        "title": "Calendar",
+        "bordered": true,
+        "action": "openUrl",
+        "url": "https://calendar.google.com/calendar/u/0/r?tab=rc",
+        "background": "FF3333"
+      },
+      {
+        "type": "staticButton",
+        "title": "",
+        "width": 5,
+        "bordered": false
+      },
+      {
+        "type": "staticButton",
+        "title": "GitHub",
+        "bordered": true,
+        "action": "openUrl",
+        "url": "https://github.com/",
+        "background": "0433FF"
+      },
+      {
+        "type": "staticButton",
+        "title": "",
+        "width": 5,
+        "bordered": false
+      },
+      {
+        "type": "staticButton",
+        "title": "YouTrack",
+        "bordered": true,
+        "action": "openUrl",
+        "url": "https://applieddataconsultants.myjetbrains.com/youtrack/issues?q=%23%7BAssigned%20to%20me%7D%20or%20%23%7BHelp%20Desk%7D",
+        "background": "EC498A"
+      },
+      {
+        "type": "staticButton",
+        "title": "",
+        "width": 5,
+        "bordered": false
+      },
+      {
+        "type": "staticButton",
+        "title": "Twitter",
+        "bordered": true,
+        "action": "openUrl",
+        "url": "https://twitter.com/home",
+        "background": "339CFF"
+      },
+      {
+        "type": "staticButton",
+        "title": "",
+        "width": 5,
+        "bordered": false
+      },
+      {
+        "type": "staticButton",
+        "title": "Youtube",
+        "bordered": true,
+        "action": "openUrl",
+        "url": "https://youtube.com/",
+        "background": "FF3333"
+      },
+      {
+        "type": "staticButton",
+        "title": "",
+        "width": 5,
+        "bordered": false
+      },
+      {
+        "type": "staticButton",
+        "title": "Coinbase Pro",
+        "bordered": true,
+        "action": "openUrl",
+        "url": "https://pro.coinbase.com",
+        "background": "F0B90B"
+      },
+      {
+        "type": "staticButton",
+        "title": "",
+        "width": 5,
+        "bordered": false
+      },
+      {
+        "type": "staticButton",
+        "title": "Coinbase",
+        "bordered": true,
+        "action": "openUrl",
+        "url": "https://www.coinbase.com/dashboard",
+        "background": "0433FF"
+      },
+      {
+        "type": "staticButton",
+        "title": "",
+        "width": 5,
+        "bordered": false
+      },
+      {
+        "type": "staticButton",
+        "title": "Robinhood",
+        "bordered": true,
+        "action": "openUrl",
+        "url": "https://www.robinhood.com",
+        "background": "57C43B"
+      },
+      {
+        "type": "staticButton",
+        "title": "",
+        "width": 5,
+        "bordered": false
+      },
+      {
+        "type": "close",
+        "width": 38,
+        "bordered": true,
+        "align": "right"
+      }
+    ]
+  },
+  {
+    "type": "brightnessDown",
+    "bordered": true,
+    "align": "left",
+    "width": 20
+  },
+  {
+    "type": "brightness",
+    "width": 100,
+    "align": "left",
+    "image": {
+      "base64": "iVBORw0KGgoAAAANSUhEUgAAAIAAAACAAQMAAAD58POIAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURffLOPfLNyaSVzUAAAACdFJOU/kBxOqnWgAAAbJJREFUSMfVljtyhDAQBVulQCFH4CgcDR1NR9ERFBKoeA5GfGddtkNvwFINFKP5tED22+Zxwviv6QVKfIEc/iNoF5gkpLIeYI8SUp4PsAUJiekADQntF6isQjvxCTrhAJlFqMMBeIH9BMsD7DAb2BhvYbIyNAOCZIWqYKGTpDZJFQu9EKVd44RxQRq3IrULWD62C8wSssWUZEsR0k6wcDOrJZmoBpMKI+s5qkBQCQOUJADVOECdOsDS0gDbsgHMfT4rVwHSrZQFIN5ABka8BgDgAeZ+BztBgvUEnSgVlhNsTFJjvoF5HAZorBpdYKAiSRbqNyBIUr6AjZMdPwO72R40MElS+wZUWA+wQ6LAYkFvdIhkmA+wQSDDdIAGAZ6A34H0x0fca11gBZZsIHSIfnE/5+NjCn/OuiuUB+/aunZwDeNayjXdTpDN0wlY+r1PfWu75nfj8RogN2JuCN2Y5qgMwTI0wGPUnQw6Qarx0sVNKA5Mn6VUL22lIbZoYitDbPmlvocc9Umfl2D7adz1reC3pF8av4m+DCenp/ndZuG3E7fhuC3pH2+vnz8V3MfE+bnxBTXuuIMTrLWHAAAAAElFTkSuQmCC"
+    }
+  },
+  {
+    "type": "brightnessUp",
+    "bordered": true,
+    "align": "left",
+    "width": 36
+  },
+  {
+    "type": "mute",
+    "bordered": true,
+    "align": "right"
+  },
+  {
+    "type": "volumeDown",
+    "bordered": true,
+    "align": "right",
+    "width": 36
+  },
+  {
+    "type": "volume",
+    "width": 100,
+    "align": "right"
+  },
+  {
+    "type": "volumeUp",
+    "bordered": true,
+    "align": "right",
+    "width": 36
+  },
+  {
+    "type": "upnext",
+    "from": 1,
+    "to": 24,
+    "maxToShow": 3,
+    "autoResize": false,
+    "align": "left"
+  },
+  {
+    "type": "battery",
+    "width": 40,
+    "align": "right",
+    "bordered": false
+  },
+  {
+    "type": "timeButton",
+    "formatTemplate": "MMM d",
+    "align": "right",
+    "autoRezice": true,
+    "bordered": false,
+    "longAction": "shellScript",
+    "longExecutablePath": "/usr/bin/pmset",
+    "longShellArguments": [
+      "sleepnow"
+    ]
+  },
+  {
+    "type": "timeButton",
+    "formatTemplate": "HH:mm",
+    "widht": 30,
+    "align": "right",
+    "bordered": false,
+    "background": "47B9C9",
+    "longAction": "shellScript",
+    "longExecutablePath": "/usr/bin/pmset",
+    "longShellArguments": [
+      "sleepnow"
+    ]
+  },
+  {
+    "type": "weather",
+    "align": "right",
+    "bordered": false,
+    "refreshInterval": 600,
+    "units": "imperial",
+    "icon_type": "images",
+    "api_key": "302d8fa6acb7320f795ab87cf4860b87",
+    "actions": [
+      {
+        "trigger": "singleTap",
+        "action": "openUrl",
+        "url": "https://www.accuweather.com/en/us/eau-claire/54701/weather-forecast/331518"
+      }
+    ]
+  },
+  {
+    "type": "group",
+    "title": "♫",
+    "align": "right",
+    "bordered": false,
+    "width": 60,
+    "items": [
+      {
+        "type": "escape",
+        "title": "esc",
+        "align": "left",
+        "width": 60,
+        "restTime": 600
+      },
+      {
+        "type": "music",
+        "align": "center"
+      },
+      {
+        "type": "mute",
+        "bordered": false,
+        "align": "right"
+      },
+      {
+        "type": "volumeDown",
+        "bordered": false,
+        "align": "right",
+        "width": 36
+      },
+      {
+        "type": "volume",
+        "width": 100,
+        "align": "right"
+      },
+      {
+        "type": "volumeUp",
+        "bordered": false,
+        "align": "right",
+        "width": 36
+      },
+      {
+        "type": "previous",
+        "width": 75,
+        "bordered": false,
+        "align": "right"
+      },
+      {
+        "type": "play",
+        "width": 75,
+        "bordered": false,
+        "align": "right"
+      },
+      {
+        "type": "next",
+        "width": 75,
+        "bordered": false,
+        "align": "right"
+      },
+      {
+        "type": "close",
+        "bordered": true,
+        "width": 64,
+        "align": "right"
+      }
+    ]
+  },
+  {
+    "type": "group",
+    "title": "🕔",
+    "width": 50,
+    "align": "right",
+    "items": [
+      {
+        "type": "escape",
+        "title": "esc",
+        "align": "left",
+        "width": 60,
+        "restTime": 600
+      },
+      {
+        "type": "pomodoro",
+        "title": "15Min",
+        "workTime": 900,
+        "restTime": 600,
+        "bordered": false,
+        "align": "left"
+      },
+      {
+        "type": "pomodoro",
+        "title": "30Min",
+        "workTime": 1800,
+        "restTime": 600,
+        "bordered": false,
+        "align": "left"
+      },
+      {
+        "type": "pomodoro",
+        "title": "1Hour",
+        "workTime": 3600,
+        "restTime": 600,
+        "bordered": false,
+        "align": "left"
+      },
+      {
+        "type": "staticButton",
+        "title": " ",
+        "bordered": false,
+        "align": "right"
+      },
+      {
+        "type": "staticButton",
+        "title": "HI:",
+        "background": "009051",
+        "bordered": false,
+        "align": "right",
+        "width": 35
+      },
+      {
+        "type": "shellScriptTitledButton",
+        "width": 40,
+        "refreshInterval": 5,
+        "align": "right",
+        "bordered": false,
+        "source": {
+          "inline": "TZ=US/Hawaii date +%H:%M"
+        }
+      },
+      {
+        "type": "staticButton",
+        "title": " ",
+        "bordered": false,
+        "align": "right"
+      },
+      {
+        "type": "staticButton",
+        "title": "AK:",
+        "background": "009051",
+        "bordered": false,
+        "align": "right",
+        "width": 35
+      },
+      {
+        "type": "shellScriptTitledButton",
+        "width": 40,
+        "refreshInterval": 5,
+        "align": "right",
+        "bordered": false,
+        "source": {
+          "inline": "TZ=US/Alaska date +%H:%M"
+        }
+      },
+      {
+        "type": "staticButton",
+        "title": " ",
+        "bordered": false,
+        "align": "right"
+      },
+      {
+        "type": "staticButton",
+        "title": "PT:",
+        "background": "009051",
+        "bordered": false,
+        "align": "right",
+        "width": 35
+      },
+      {
+        "type": "shellScriptTitledButton",
+        "width": 40,
+        "refreshInterval": 5,
+        "align": "right",
+        "bordered": false,
+        "source": {
+          "inline": "TZ=US/Pacific date +%H:%M"
+        }
+      },
+      {
+        "type": "staticButton",
+        "title": " ",
+        "bordered": false,
+        "align": "right"
+      },
+      {
+        "type": "staticButton",
+        "title": "MT:",
+        "background": "009051",
+        "bordered": false,
+        "align": "right",
+        "width": 35
+      },
+      {
+        "type": "shellScriptTitledButton",
+        "width": 40,
+        "refreshInterval": 5,
+        "align": "right",
+        "bordered": false,
+        "source": {
+          "inline": "TZ=US/Mountain date +%H:%M"
+        }
+      },
+      {
+        "type": "staticButton",
+        "title": " ",
+        "bordered": false,
+        "align": "right"
+      },
+      {
+        "type": "staticButton",
+        "title": "CT:",
+        "background": "009051",
+        "bordered": false,
+        "align": "right",
+        "width": 35
+      },
+      {
+        "type": "shellScriptTitledButton",
+        "width": 40,
+        "refreshInterval": 5,
+        "align": "right",
+        "bordered": false,
+        "source": {
+          "inline": "TZ=US/Central date +%H:%M"
+        }
+      },
+      {
+        "type": "staticButton",
+        "title": " ",
+        "bordered": false,
+        "align": "right"
+      },
+      {
+        "type": "staticButton",
+        "title": "ET:",
+        "bordered": false,
+        "background": "009051",
+        "align": "right",
+        "width": 35
+      },
+      {
+        "type": "shellScriptTitledButton",
+        "width": 40,
+        "refreshInterval": 5,
+        "align": "right",
+        "bordered": false,
+        "source": {
+          "inline": "TZ=US/Eastern date +%H:%M"
+        }
+      },
+      {
+        "type": "staticButton",
+        "title": " ",
+        "bordered": false,
+        "align": "right"
+      },
+      {
+        "type": "close",
+        "width": 38,
+        "bordered": true,
+        "align": "right"
+      }
+    ]
+  },
+  {
+    "type": "group",
+    "title": "₿",
+    "align": "right",
+    "bordered": false,
+    "width": 40,
+    "background": "F0B90B",
+    "actions": [
+      {
+        "trigger": "longTap",
+        "action": "openUrl",
+        "url": "https://www.binance.com/es/trade/ETH_USDT?type=spot"
+      }
+    ],
+    "items": [
+      {
+        "type": "escape",
+        "title": "esc",
+        "align": "left",
+        "width": 60,
+        "restTime": 600
+      },
+      {
+        "type": "staticButton",
+        "title": " $",
+        "bordered": false,
+        "align": "left"
+      },
+      {
+        "type": "currency",
+        "refreshInterval": 600,
+        "bordered": false,
+        "align": "left",
+        "from": "BTC",
+        "to": "USDT",
+        "background": "FF3333",
+        "actions": [
+          {
+            "trigger": "singleTap",
+            "action": "openUrl",
+            "url": "https://trade.kucoin.com/BTC-USDT"
+          }
+        ]
+      },
+      {
+        "type": "currency",
+        "refreshInterval": 600,
+        "bordered": false,
+        "align": "left",
+        "from": "ETH",
+        "to": "USDT",
+        "background": "339CFF",
+        "actions": [
+          {
+            "trigger": "singleTap",
+            "action": "openUrl",
+            "url": "https://trade.kucoin.com/ETH-USDT"
+          }
+        ]
+      },
+      {
+        "type": "currency",
+        "refreshInterval": 600,
+        "bordered": false,
+        "align": "left",
+        "from": "DGB",
+        "to": "USDT",
+        "background": "2568c5",
+        "actions": [
+          {
+            "trigger": "singleTap",
+            "action": "openUrl",
+            "url": "https://trade.kucoin.com/DGB-USDT"
+          }
+        ]
+      },
+      {
+        "type": "currency",
+        "refreshInterval": 600,
+        "bordered": false,
+        "align": "left",
+        "from": "DOT",
+        "to": "USDT",
+        "background": "FF3333",
+        "actions": [
+          {
+            "trigger": "singleTap",
+            "action": "openUrl",
+            "url": "https://trade.kucoin.com/DOT-USDT"
+          }
+        ]
+      },
+      {
+        "type": "currency",
+        "refreshInterval": 600,
+        "bordered": false,
+        "align": "left",
+        "from": "XRP",
+        "to": "USD",
+        "background": "6000D2",
+        "actions": [
+          {
+            "trigger": "singleTap",
+            "action": "openUrl",
+            "url": "https://trade.kucoin.com/XRP-USDT"
+          }
+        ]
+      },
+      {
+        "type": "currency",
+        "refreshInterval": 600,
+        "bordered": false,
+        "align": "left",
+        "from": "DOGE",
+        "to": "USD",
+        "background": "BCA131",
+        "actions": [
+          {
+            "trigger": "singleTap",
+            "action": "openUrl",
+            "url": "https://trade.kucoin.com/DOGE-USDT"
+          }
+        ]
+      },
+      {
+        "type": "currency",
+        "refreshInterval": 600,
+        "bordered": false,
+        "align": "left",
+        "from": "MATIC",
+        "to": "USDT",
+        "background": "6000D2",
+        "actions": [
+          {
+            "trigger": "singleTap",
+            "action": "openUrl",
+            "url": "https://trade.kucoin.com/MATIC-USDT"
+          }
+        ]
+      },
+      {
+        "type": "currency",
+        "refreshInterval": 600,
+        "bordered": false,
+        "align": "left",
+        "from": "LTC",
+        "to": "USDT",
+        "background": "a2a2a3",
+        "actions": [
+          {
+            "trigger": "singleTap",
+            "action": "openUrl",
+            "url": "https://trade.kucoin.com/LTC-USDT"
+          }
+        ]
+      },
+      {
+        "type": "currency",
+        "refreshInterval": 600,
+        "bordered": false,
+        "align": "left",
+        "from": "ADA",
+        "to": "USDT",
+        "background": "2568c5",
+        "actions": [
+          {
+            "trigger": "singleTap",
+            "action": "openUrl",
+            "url": "https://trade.kucoin.com/ADA-USDT"
+          }
+        ]
+      },
+      {
+        "type": "currency",
+        "refreshInterval": 600,
+        "bordered": false,
+        "align": "left",
+        "from": "LINK",
+        "to": "USDT",
+        "background": "339CFF",
+        "actions": [
+          {
+            "trigger": "singleTap",
+            "action": "openUrl",
+            "url": "https://trade.kucoin.com/LINK-USDT"
+          }
+        ]
+      },
+      {
+        "type": "staticButton",
+        "title": "",
+        "bordered": true,
+        "action": "openUrl",
+        "url": "https://pro.coinbase.com/",
+        "image": {
+          "base64": "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"
+        },
+        "align": "right",
+        "width": 35
+      },
+      {
+        "type": "staticButton",
+        "title": "",
+        "bordered": true,
+        "action": "openUrl",
+        "url": "https://www.coinmarketcap.com",
+        "image": {
+          "base64": "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"
+        },
+        "align": "right",
+        "width": 35
+      },
+      {
+        "type": "close",
+        "width": 64,
+        "bordered": true,
+        "align": "right"
+      }
+    ]
+  },
+  {
+    "type": "exitTouchbar",
+    "title": "⎋",
+    "align": "right",
+    "width": 35
+  }
+]
